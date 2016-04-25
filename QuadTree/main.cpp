@@ -18,5 +18,6 @@ int main()
         tree.insertar(bin,p1 , p2);
         tree.Print();
         tree.serilizar();
+
     return 0;
 }
